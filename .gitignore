@@ -1,0 +1,106 @@
+# Ficheiros compilados
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# Ficheiros de pré-compilação
+*.gch
+*.pch
+
+# Bibliotecas compiladas
+*.lib
+*.a
+*.la
+*.lo
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Ficheiros do Code::Blocks
+*.depend
+*.layout
+bin/
+obj/
+
+# VS Code (manter configuração)
+# .vscode/
+
+# CMake
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.cmake
+!CMakeLists.txt
+
+# CLion
+.idea/
+
+# Ficheiros do Visual Studio
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+# Ficheiros do CLion
+.idea/
+cmake-build-*/
+
+# Ficheiros do QtCreator
+*.pro.user
+*.autosave
+
+# Ficheiros do Makefile
+Makefile
+*.make
+
+# Ficheiros de depuração
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Ficheiros de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ficheiros temporários
+*~
+*.swp
+*.swo
+*.tmp
+*.temp
+*.bak
+*.cache
+
+# Logs
+*.log
+
+# Ficheiros de backup
+*_backup.txt
+*.backup
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
+_deps
+
+# Valgrind
+*.memcheck
+vgcore.*
+
+# Core dumps
+core
+core.*

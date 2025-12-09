@@ -1,0 +1,4 @@
+﻿#include "../include/Leitor.h"
+
+
+

@@ -1,0 +1,202 @@
+====================================
+        LISTA DE LEITORES           
+====================================
+111111111	Carla Aguiar Cunha Paredes Pires	Estudante	0 Euros
+111111112	Ricardo Andrade Nogueira Matos	Comum	0 Euros
+111111113	Eduardo Carneiro Paredes Clementino Castro	Estudante	0 Euros
+111111114	Cristiana Eanes Almada Martins Baptista	Senior	0 Euros
+111111115	Marisa Calado Cardoso Quadros Barbosa	Senior	0 Euros
+111111116	Leonor Leal Estrela Moreira	Professor	0 Euros
+111111117	Paula Nogueira Seixas Carrico	Professor	0 Euros
+111111118	Carina Carvalheira Ramalho Dinis Valbom	Senior	0 Euros
+111111119	Joana Vivas Eanes Estrela	Senior	0 Euros
+111111120	Cristiano Lopes Santos Nunes	Senior	0 Euros
+111111121	Carmo Carrico Real Antunes Quadros	Estudante	0 Euros
+111111122	Luis Paredes Barbosa Bacelar Santos	Comum	0 Euros
+111111123	Cristiano Moura Ramalho Ferraz	Senior	0 Euros
+111111124	Cristiano Cardoso Farias Carneiro Andrade	Senior	0 Euros
+111111125	Odete Leal Nunes Barbosa	Estudante	0 Euros
+111111126	Maria Almada Pinto Amorim Quadros	Estudante	0 Euros
+111111127	Ricardo Tinoco Belchior Caneco Pinto	Estudante	0 Euros
+111111128	Ricardo Carmona Amorim Moreno Dinis	Senior	0 Euros
+111111129	Claudio Eanes Cipriano Vivas	Comum	0 Euros
+111111130	Dulcineia Vivas Almeida Lobato Dinis	Estudante	0 Euros
+
+====================================
+        LISTA DE LIVROS             
+====================================
+Ficcao	O Senhor dos Aneis	J.R.R. Tolkien	1954	Disponível
+Ficcao	O Hobbit	J.R.R. Tolkien	1937	Disponível
+Ficcao	Duna	Frank Herbert	1965	Disponível
+Ficcao	Neuromancer	William Gibson	1984	Disponível
+Ficcao	As Cronicas de Narnia	C.S. Lewis	1950	Disponível
+Cientifico	Cosmos	Carl Sagan	1980	Disponível
+Cientifico	O Universo Elegante	Brian Greene	1999	Disponível
+Cientifico	A Estrutura das Revolucoes Cientificas	Thomas Kuhn	1962	Disponível
+Cientifico	O Andar do Bebado	Leonard Mlodinow	2008	Disponível
+Cientifico	A Origem das Especies	Charles Darwin	1859	Disponível
+Educativo	Introducao a Programacao com Python	John Zelle	2010	Disponível
+Educativo	Quimica Geral	Raymond Chang	2006	Disponível
+Educativo	Historia da Arte	E.H. Gombrich	1950	Disponível
+Educativo	Gramatica da Lingua Portuguesa	Evanildo Bechara	2009	Disponível
+Educativo	Fisica para Leigos	Albert Einstein	2002	Disponível
+Revista	Superinteressante	Varios	2023	Disponível
+Revista	Veja	Varios	2023	Disponível
+Revista	Scientific American	Varios	2023	Disponível
+Revista	National Geographic Kids	Varios	2023	Disponível
+Revista	National Geographic	Varios	2020	Emprestado
+Jornal	The New York Times	Varios	2023	Disponível
+Jornal	Folha de S.Paulo	Varios	2023	Disponível
+Jornal	The Guardian	Varios	2023	Disponível
+Jornal	O Globo	Varios	2023	Disponível
+Jornal	Le Monde	Varios	2023	Disponível
+=======================================
+       RELATÓRIO DE MULTAS             
+=======================================
+
+=======================================
+TOTAL DE MULTAS NO SISTEMA: 0 Euros
+============================================
+       RELATÓRIO DE LIVROS POR CATEGORIA   
+============================================
+
+Categoria: Cientifico
+--------------------------------------------
+Título: Cosmos
+Autor: Carl Sagan
+Ano de Publicação: 1980
+Disponível: Sim
+--------------------------------------------
+Título: O Universo Elegante
+Autor: Brian Greene
+Ano de Publicação: 1999
+Disponível: Sim
+--------------------------------------------
+Título: A Estrutura das Revolucoes Cientificas
+Autor: Thomas Kuhn
+Ano de Publicação: 1962
+Disponível: Sim
+--------------------------------------------
+Título: O Andar do Bebado
+Autor: Leonard Mlodinow
+Ano de Publicação: 2008
+Disponível: Sim
+--------------------------------------------
+Título: A Origem das Especies
+Autor: Charles Darwin
+Ano de Publicação: 1859
+Disponível: Sim
+--------------------------------------------
+
+Categoria: Educativo
+--------------------------------------------
+Título: Introducao a Programacao com Python
+Autor: John Zelle
+Ano de Publicação: 2010
+Disponível: Sim
+--------------------------------------------
+Título: Quimica Geral
+Autor: Raymond Chang
+Ano de Publicação: 2006
+Disponível: Sim
+--------------------------------------------
+Título: Historia da Arte
+Autor: E.H. Gombrich
+Ano de Publicação: 1950
+Disponível: Sim
+--------------------------------------------
+Título: Gramatica da Lingua Portuguesa
+Autor: Evanildo Bechara
+Ano de Publicação: 2009
+Disponível: Sim
+--------------------------------------------
+Título: Fisica para Leigos
+Autor: Albert Einstein
+Ano de Publicação: 2002
+Disponível: Sim
+--------------------------------------------
+
+Categoria: Ficcao
+--------------------------------------------
+Título: O Senhor dos Aneis
+Autor: J.R.R. Tolkien
+Ano de Publicação: 1954
+Disponível: Sim
+--------------------------------------------
+Título: O Hobbit
+Autor: J.R.R. Tolkien
+Ano de Publicação: 1937
+Disponível: Sim
+--------------------------------------------
+Título: Duna
+Autor: Frank Herbert
+Ano de Publicação: 1965
+Disponível: Sim
+--------------------------------------------
+Título: Neuromancer
+Autor: William Gibson
+Ano de Publicação: 1984
+Disponível: Sim
+--------------------------------------------
+Título: As Cronicas de Narnia
+Autor: C.S. Lewis
+Ano de Publicação: 1950
+Disponível: Sim
+--------------------------------------------
+
+Categoria: Jornal
+--------------------------------------------
+Título: The New York Times
+Autor: Varios
+Ano de Publicação: 2023
+Disponível: Sim
+--------------------------------------------
+Título: Folha de S.Paulo
+Autor: Varios
+Ano de Publicação: 2023
+Disponível: Sim
+--------------------------------------------
+Título: The Guardian
+Autor: Varios
+Ano de Publicação: 2023
+Disponível: Sim
+--------------------------------------------
+Título: O Globo
+Autor: Varios
+Ano de Publicação: 2023
+Disponível: Sim
+--------------------------------------------
+Título: Le Monde
+Autor: Varios
+Ano de Publicação: 2023
+Disponível: Sim
+--------------------------------------------
+
+Categoria: Revista
+--------------------------------------------
+Título: Superinteressante
+Autor: Varios
+Ano de Publicação: 2023
+Disponível: Sim
+--------------------------------------------
+Título: Veja
+Autor: Varios
+Ano de Publicação: 2023
+Disponível: Sim
+--------------------------------------------
+Título: Scientific American
+Autor: Varios
+Ano de Publicação: 2023
+Disponível: Sim
+--------------------------------------------
+Título: National Geographic Kids
+Autor: Varios
+Ano de Publicação: 2023
+Disponível: Sim
+--------------------------------------------
+Título: National Geographic
+Autor: Varios
+Ano de Publicação: 2020
+Disponível: N�o
+--------------------------------------------
+

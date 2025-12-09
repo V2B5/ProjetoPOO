@@ -1,0 +1,15 @@
+﻿=======================================
+    RELATÓRIO DE EMPRÉSTIMOS POR TIPO  
+=======================================
+
+Categoria: Ficcao
+---------------------------------------
+Leitor: Carla Aguiar Cunha Paredes Pires (NIF: 111111111)
+Tipo de Leitor: Estudante
+Livro: Duna (Frank Herbert)
+Data de Empréstimo: 18-10-1992
+Data de Devolução: 01-11-1992
+---------------------------------------
+Tipo de leitor que mais requisitou esta categoria: Estudante (1 empréstimos)
+
+

@@ -1,0 +1,71 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "Compilar Projecto",
+            "command": "C:/Program Files/CodeBlocks/MinGW/bin/g++.exe",
+            "args": [
+                "-g",
+                "-std=c++17",
+                "-Iinclude",
+                "-static",
+                "main.cpp",
+                "src/Biblioteca.cpp",
+                "src/Livro.cpp",
+                "src/Pessoa.cpp",
+                "src/Emprestimo.cpp",
+                "src/Leitor.cpp",
+                "src/Geral.cpp",
+                "src/Uteis.cpp",
+                "-o",
+                "bin/Debug/ProjetoPOO.exe"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": ["$gcc"],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared"
+            }
+        },
+        {
+            "type": "shell",
+            "label": "Executar Programa",
+            "command": "${workspaceFolder}/bin/Debug/ProjetoPOO.exe",
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": [],
+            "presentation": {
+                "reveal": "always",
+                "focus": true,
+                "panel": "dedicated"
+            }
+        },
+        {
+            "type": "shell",
+            "label": "Compilar e Executar",
+            "dependsOn": ["Compilar Projecto"],
+            "command": "${workspaceFolder}/bin/Debug/ProjetoPOO.exe",
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": [],
+            "group": {
+                "kind": "test",
+                "isDefault": true
+            },
+            "presentation": {
+                "reveal": "always",
+                "focus": true,
+                "panel": "dedicated"
+            }
+        }
+    ]
+}

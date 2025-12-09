@@ -1,0 +1,25 @@
+FICCAO	O Senhor dos Aneis	J.R.R. Tolkien	1954	1	Fantasia	978-1234567890
+FICCAO	O Hobbit	J.R.R. Tolkien	1937	1	Fantasia	978-0261102217
+FICCAO	Duna	Frank Herbert	1965	1	Ficcao Cientifica	978-0441172719
+FICCAO	Neuromancer	William Gibson	1984	1	Cyberpunk	978-0441569595
+FICCAO	As Cronicas de Narnia	C.S. Lewis	1950	1	Fantasia	978-0007117307
+CIENTIFICO	Cosmos	Carl Sagan	1980	1	Astronomia	978-0345539434
+CIENTIFICO	O Universo Elegante	Brian Greene	1999	1	Fisica	978-0375708114
+CIENTIFICO	A Estrutura das Revolucoes Cientificas	Thomas Kuhn	1962	1	Filosofia da Ciencia	978-0226458120
+CIENTIFICO	O Andar do Bebado	Leonard Mlodinow	2008	1	Matematica	978-8520922961
+CIENTIFICO	A Origem das Especies	Charles Darwin	1859	1	Biologia	978-0987654321
+EDUCATIVO	Introducao a Programacao com Python	John Zelle	2010	1	Programacao	978-8575224083
+EDUCATIVO	Quimica Geral	Raymond Chang	2006	1	Quimica	978-8564574312
+EDUCATIVO	Historia da Arte	E.H. Gombrich	1950	1	Arte	978-8575262443
+EDUCATIVO	Gramatica da Lingua Portuguesa	Evanildo Bechara	2009	1	Linguistica	978-8504014116
+EDUCATIVO	Fisica para Leigos	Albert Einstein	2002	1	Didatico	978-1122334455
+REVISTA	Superinteressante	Varios	2023	1	150
+REVISTA	Veja	Varios	2023	1	151
+REVISTA	Scientific American	Varios	2023	1	152
+REVISTA	National Geographic Kids	Varios	2023	1	153
+REVISTA	National Geographic	Varios	2020	0	150
+JORNAL	The New York Times	Varios	2023	1	2023-12-01
+JORNAL	Folha de S.Paulo	Varios	2023	1	2023-12-02
+JORNAL	The Guardian	Varios	2023	1	2023-12-03
+JORNAL	O Globo	Varios	2023	1	2023-12-04
+JORNAL	Le Monde	Varios	2023	1	2023-12-01

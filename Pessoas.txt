@@ -1,0 +1,20 @@
+111111111	Carla Aguiar Cunha Paredes Pires	Estudante	0	0	0	0	0
+111111112	Ricardo Andrade Nogueira Matos	Comum	0	0	0	0	0
+111111113	Eduardo Carneiro Paredes Clementino Castro	Estudante	0	0	0	0	0
+111111114	Cristiana Eanes Almada Martins Baptista	Senior	0	0	0	0	0
+111111115	Marisa Calado Cardoso Quadros Barbosa	Senior	0	0	0	0	0
+111111116	Leonor Leal Estrela Moreira	Professor	0	0	0	0	0
+111111117	Paula Nogueira Seixas Carrico	Professor	0	0	0	0	0
+111111118	Carina Carvalheira Ramalho Dinis Valbom	Senior	0	0	0	0	0
+111111119	Joana Vivas Eanes Estrela	Senior	0	0	0	0	0
+111111120	Cristiano Lopes Santos Nunes	Senior	0	0	0	0	0
+111111121	Carmo Carrico Real Antunes Quadros	Estudante	0	0	0	0	0
+111111122	Luis Paredes Barbosa Bacelar Santos	Comum	0	0	0	0	0
+111111123	Cristiano Moura Ramalho Ferraz	Senior	0	0	0	0	0
+111111124	Cristiano Cardoso Farias Carneiro Andrade	Senior	0	0	0	0	0
+111111125	Odete Leal Nunes Barbosa	Estudante	0	0	0	0	0
+111111126	Maria Almada Pinto Amorim Quadros	Estudante	0	0	0	0	0
+111111127	Ricardo Tinoco Belchior Caneco Pinto	Estudante	0	0	0	0	0
+111111128	Ricardo Carmona Amorim Moreno Dinis	Senior	0	0	0	0	0
+111111129	Claudio Eanes Cipriano Vivas	Comum	0	0	0	0	0
+111111130	Dulcineia Vivas Almeida Lobato Dinis	Estudante	0	0	0	0	0
